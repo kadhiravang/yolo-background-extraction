@@ -84,23 +84,15 @@ Ground truth from CDNet2014 dataset used for comparison.
 
 Requirements
 Python 3.8+
-
 OpenCV (opencv-python)
-
 NumPy
-
 Torch (torch)
-
 Pandas (pandas)
-
 scikit-image (scikit-image)
 
-Install dependencies using:
+Install dependencies using requirements file present in data folder:
+pip install requirements.txt
 
-bash
-Copy
-Edit
-pip install opencv-python torch numpy pandas scikit-image
 References
 Original Paper: An Efficient Scheme to Obtain Background Image in Video for YOLO-based Static Object Recognition
 
