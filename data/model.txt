@@ -1,0 +1,9 @@
+# Yolo Model use these following commands to Download for Linux users:
+!wget https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
+!wget https://pjreddie.com/media/files/yolov3.weights
+!wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
+
+# Google Drive link for these files(Windows):
+"https://drive.google.com/drive/folders/1nhLOLUpfUIZFIzi29aNueD7zo6ToJ7iA?usp=sharing"
+
+# Note: the yolo model related files are present in the Model and Weights folder.
